@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Isma Kania
+Hi, I'm Isma Kania. It's my github's portfolio. 
+I'm interest to learn Data
 
 <!--
 **IsmaKania/ismakania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

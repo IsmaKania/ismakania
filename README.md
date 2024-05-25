@@ -1,6 +1,8 @@
 ## Hi there 👋
-Hi, I'm Isma Kania. It's my github's portfolio. 
-I'm interest to learn Data
+Hi, I'm Isma Kania. It's my github's portfolio <br>
+I'm interest to learn Data. My program language is Excel and Python <br>
+Hope u enjoy here ! <br>
+Let's Connect with my <a href="https://www.linkedin.com/in/ismakania/">LinkedIn</a> !
 
 <!--
 **IsmaKania/ismakania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
